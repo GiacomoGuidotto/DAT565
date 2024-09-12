@@ -10,3 +10,8 @@ To update the existing conda environment:
 ```bash
 conda env update -f environment.yaml --prune
 ```
+
+To update the environment.yaml file:
+```bash
+conda env export --no-builds | grep -v "^prefix: " > environment.yaml
+```
