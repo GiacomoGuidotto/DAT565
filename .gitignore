@@ -1,5 +1,6 @@
 .idea
 
 **/*.csv
+**/*.tsv
 **/*.html
 **/*.tar.bz2
