@@ -1,4 +1,4 @@
-# PDT: Penguins Dream Team
+# DAT565 - Introduction to Data Science and AI
 
 To use conda environments:
 ```bash
